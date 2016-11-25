@@ -6,7 +6,6 @@ package com.github.pellaton.java9.leftpad;
 public class LeftPad {
 
   public static String padLeft(String input, int targetLength) {
-  return String.format("%" + targetLength + "s", input);
+    return String.format("%" + targetLength + "s", input);
   }
-  
 }
