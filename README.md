@@ -1,11 +1,11 @@
 # techtalk-java9-example
 Examples of my TechTalk on Java 9 Modules
 
-##Prerequsistes
+## Prerequsistes
 * [JDK 9 Early Access with Project Jigsaw](https://jdk9.java.net/jigsaw/) (build 145 is used for the examples)
 * Optionally a bash shell to run the build commands
 
-##Example 1: Modules
+## Example 1: Modules
 This example consist of a java package containing a ```LeftPad``` (leftpad) utilty class 
 and another package containing a simple application using that utility (application).
 
